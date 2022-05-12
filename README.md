@@ -9,14 +9,14 @@ The Indonesian government is eager to advance Micro, Small, and Medium Enterpris
 
 ## Contributors:
 
-(ML) M7008G0794 - Muhammad Nur Ilmi - Universitas Gadjah Mada
+(ML) M7008G0794 - Muhammad Nur Ilmi - Universitas Gadjah Mada - mnurilmi18@gmail.com
 
-(ML) M2002G0062 - Melia Fatimah - Institut Teknologi Bandung
+(ML) M2002G0062 - Melia Fatimah - Institut Teknologi Bandung - email@gmail.com
 
-(MD) A7003F0130 - Zefanya Sendri Wiloso - Institut Teknologi Harapan Bangsa
+(MD) A7003F0130 - Zefanya Sendri Wiloso - Institut Teknologi Harapan Bangsa - email@gmail.com
 
-(MD) A7003F0131 - Gilbert Cefryo Palentein - Institut Teknologi Harapan Bangsa
+(MD) A7003F0131 - Gilbert Cefryo Palentein - Institut Teknologi Harapan Bangsa - email@gmail.com
 
-(CC) C2003F0132 - Hilbert Hasiholan Purba  - Institut Teknologi Harapan Bangsa
+(CC) C2003F0132 - Hilbert Hasiholan Purba  - Institut Teknologi Harapan Bangsa - email@gmail.com
 
-(CC) C2002G0065 - Elang Aditya Rahman  - Institut Teknologi Bandung
+(CC) C2002G0065 - Elang Aditya Rahman  - Institut Teknologi Bandung - email@gmail.com

@@ -1,7 +1,0 @@
-## Catatan Ilmi
-https://www.tensorflow.org/recommenders](https://www.tensorflow.org/recommenders)
-https://www.tensorflow.org/recommenders/examples/dcn](https://www.tensorflow.org/recommenders/examples/dcn)
-https://www.kaggle.com/code/kushbhatnagar/movie-recommendation-system/data](https://www.kaggle.com/code/kushbhatnagar/movie-recommendation-system/data)
-https://www.kaggle.com/code/niharika41298/recommendation-systems-in-a-nutshell](https://www.kaggle.com/code/niharika41298/recommendation-systems-in-a-nutshell)
-https://www.kaggle.com/code/terminate9298/movie-recommendation-system-for-deployment](https://www.kaggle.com/code/terminate9298/movie-recommendation-system-for-deployment)
-https://www.youtube.com/watch?v=G4MBc40rQ2k](https://www.youtube.com/watch?v=G4MBc40rQ2k)
