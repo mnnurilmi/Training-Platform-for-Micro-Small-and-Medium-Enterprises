@@ -6,7 +6,7 @@
 #### Data File Stucture (umkm.csv)
 All tags are contained n the file "umkm.csv". It has following format:
 
-    userId,videoId,view,like,dislike,timestamp
+    videoId,metaData,viewCount,likeCount,commentCount
 
 #### Related Title we have scrapped
 So, to get a dataset from youtube, we determine titles related to MSMEs. These titles used to be initial the data set which is passed into model.
