@@ -11,12 +11,12 @@ The Indonesian government is eager to advance Micro, Small, and Medium Enterpris
 
 (ML) M7008G0794 - Muhammad Nur Ilmi - Universitas Gadjah Mada - mnurilmi18@gmail.com
 
-(ML) M2002G0062 - Melia Fatimah - Institut Teknologi Bandung - email@gmail.com
+(ML) M2002G0062 - Melia Fatimah - Institut Teknologi Bandung - meliafatimah@gmail.com
 
 (MD) A7003F0130 - Zefanya Sendri Wiloso - Institut Teknologi Harapan Bangsa - zefanyasendri@gmail.com
 
-(MD) A7003F0131 - Gilbert Cefryo Palentein - Institut Teknologi Harapan Bangsa - email@gmail.com
+(MD) A7003F0131 - Gilbert Cefryo Palentein - Institut Teknologi Harapan Bangsa - gilbertpalentein8@gmail.com
 
-(CC) C2003F0132 - Hilbert Hasiholan Purba  - Institut Teknologi Harapan Bangsa - email@gmail.com
+(CC) C2003F0132 - Hilbert Hasiholan Purba  - Institut Teknologi Harapan Bangsa - hilberthpurba@gmail.com
 
-(CC) C2002G0065 - Elang Aditya Rahman  - Institut Teknologi Bandung - email@gmail.com
+(CC) C2002G0065 - Elang Aditya Rahman  - Institut Teknologi Bandung - elangadityar@gmail.com
