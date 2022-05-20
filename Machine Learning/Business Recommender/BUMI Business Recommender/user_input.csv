@@ -1,0 +1,51 @@
+user_id,level,bidang_keahlian,hobi,modal_usaha
+0,udah_punya_usaha,"['kuliner', 'healtcare']","['baca', 'travelling']",above_100
+1,udah_punya_usaha,"['kuliner', 'healtcare']","['nonton', 'olahraga']",under_50
+2,udah_punya_usaha,"['healtcare', 'kuliner']","['travelling', 'olahraga', 'baca']",between_50_and_100
+3,udah_punya_usaha,['kuliner'],"['membaca', 'travelling', 'nonton', 'baca']",under_50
+4,udah_punya_usaha,['healtcare'],['travelling'],above_100
+5,udah_punya_usaha,"['kuliner', 'healtcare', 'homecare']","['baca', 'nonton']",above_100
+6,udah_punya_usaha,['healtcare'],"['nonton', 'baca']",above_100
+7,udah_punya_usaha,"['healtcare', 'homecare', 'kuliner']","['makan', 'baca', 'membaca', 'nonton', 'olahraga']",between_50_and_100
+8,udah_punya_usaha,"['homecare', 'healtcare']","['membaca', 'makan']",under_50
+9,udah_punya_usaha,['homecare'],"['makan', 'olahraga', 'travelling', 'baca', 'nonton']",under_50
+10,udah_punya_usaha,['homecare'],"['travelling', 'membaca', 'baca']",between_50_and_100
+11,udah_punya_usaha,"['homecare', 'kuliner']","['olahraga', 'makan', 'membaca', 'travelling']",between_50_and_100
+12,udah_punya_usaha,"['homecare', 'healtcare', 'kuliner']","['membaca', 'baca', 'nonton', 'olahraga', 'travelling']",under_50
+13,udah_punya_usaha,"['homecare', 'healtcare']","['makan', 'membaca']",between_50_and_100
+14,udah_punya_usaha,['homecare'],"['olahraga', 'nonton', 'baca', 'makan']",above_100
+15,udah_punya_usaha,"['kuliner', 'homecare', 'healtcare']","['membaca', 'nonton', 'baca']",under_50
+16,udah_punya_usaha,"['kuliner', 'homecare', 'healtcare']","['nonton', 'olahraga', 'travelling', 'baca']",above_100
+17,udah_punya_usaha,['homecare'],"['membaca', 'olahraga', 'travelling', 'baca', 'nonton']",above_100
+18,udah_punya_usaha,['kuliner'],"['travelling', 'nonton', 'olahraga', 'membaca']",above_100
+19,udah_punya_usaha,"['kuliner', 'healtcare', 'homecare']","['olahraga', 'membaca']",under_50
+20,udah_punya_usaha,"['healtcare', 'kuliner']","['membaca', 'olahraga', 'travelling', 'makan', 'nonton']",under_50
+21,udah_punya_usaha,"['homecare', 'healtcare']",['nonton'],under_50
+22,udah_punya_usaha,['homecare'],"['travelling', 'olahraga', 'membaca', 'nonton']",between_50_and_100
+23,udah_punya_usaha,"['homecare', 'healtcare', 'kuliner']","['nonton', 'baca', 'makan', 'olahraga']",between_50_and_100
+24,udah_punya_usaha,"['healtcare', 'kuliner']","['olahraga', 'baca', 'nonton']",between_50_and_100
+25,udah_punya_usaha,['healtcare'],['membaca'],between_50_and_100
+26,udah_punya_usaha,['healtcare'],"['travelling', 'nonton', 'membaca', 'makan', 'olahraga']",between_50_and_100
+27,udah_punya_usaha,['healtcare'],"['baca', 'nonton', 'olahraga', 'membaca', 'travelling']",under_50
+28,udah_punya_usaha,"['kuliner', 'homecare']","['membaca', 'olahraga']",above_100
+29,udah_punya_usaha,"['homecare', 'kuliner', 'healtcare']",['travelling'],above_100
+30,udah_punya_usaha,"['kuliner', 'homecare', 'healtcare']","['baca', 'travelling', 'nonton', 'membaca']",between_50_and_100
+31,udah_punya_usaha,"['healtcare', 'homecare', 'kuliner']","['olahraga', 'membaca', 'makan', 'nonton']",above_100
+32,udah_punya_usaha,"['kuliner', 'healtcare']","['travelling', 'olahraga', 'makan', 'nonton']",under_50
+33,udah_punya_usaha,"['homecare', 'kuliner', 'healtcare']",['membaca'],above_100
+34,udah_punya_usaha,"['healtcare', 'homecare', 'kuliner']",['baca'],between_50_and_100
+35,udah_punya_usaha,"['kuliner', 'homecare']","['travelling', 'membaca', 'baca']",between_50_and_100
+36,udah_punya_usaha,"['kuliner', 'healtcare', 'homecare']",['travelling'],between_50_and_100
+37,udah_punya_usaha,"['healtcare', 'homecare']","['travelling', 'baca', 'nonton', 'makan', 'olahraga']",above_100
+38,udah_punya_usaha,['kuliner'],"['baca', 'makan', 'travelling', 'nonton', 'membaca']",under_50
+39,udah_punya_usaha,"['kuliner', 'healtcare']","['travelling', 'olahraga', 'nonton', 'makan', 'membaca']",under_50
+40,belum_punya_usaha,['homecare'],"['olahraga', 'travelling', 'baca', 'membaca', 'nonton']",under_50
+41,belum_punya_usaha,['healtcare'],"['baca', 'travelling', 'nonton']",above_100
+42,belum_punya_usaha,['healtcare'],"['olahraga', 'baca']",between_50_and_100
+43,belum_punya_usaha,['homecare'],"['olahraga', 'nonton', 'travelling', 'makan', 'baca']",between_50_and_100
+44,belum_punya_usaha,['healtcare'],"['travelling', 'makan', 'nonton']",under_50
+45,belum_punya_usaha,['kuliner'],"['baca', 'membaca', 'olahraga', 'makan']",under_50
+46,belum_punya_usaha,"['kuliner', 'homecare']","['travelling', 'makan']",above_100
+47,belum_punya_usaha,"['kuliner', 'healtcare', 'homecare']","['membaca', 'baca', 'travelling', 'nonton', 'makan']",between_50_and_100
+48,belum_punya_usaha,['healtcare'],['olahraga'],between_50_and_100
+49,belum_punya_usaha,['healtcare'],"['olahraga', 'nonton', 'makan', 'travelling']",under_50
