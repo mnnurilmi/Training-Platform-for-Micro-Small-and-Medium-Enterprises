@@ -52,6 +52,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
+            android:textColor="@color/black"
             android:inputType="textEmailAddress" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -86,6 +87,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
+            android:textColor="@color/black"
+
             android:inputType="textPassword"
             app:passwordToggleEnabled="true" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -115,7 +118,6 @@
         android:layout_marginStart="18dp"
         android:layout_marginTop="8dp"
         android:text="Belum punya akun?"
-        android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="@id/tv_register"
         app:layout_constraintStart_toStartOf="parent"
@@ -131,7 +133,6 @@
         android:textStyle="bold"
         android:text="Sign Up"
         android:clickable="true"
-        android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@id/tv_welcome_desc"
