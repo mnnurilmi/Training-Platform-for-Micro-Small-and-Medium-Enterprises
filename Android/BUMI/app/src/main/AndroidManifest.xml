@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BUMI">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.favorite.FavoriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.detailVideo.DetailVideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

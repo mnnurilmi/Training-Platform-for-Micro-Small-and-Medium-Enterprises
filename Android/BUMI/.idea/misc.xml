@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable-anydpi/ic_arrow_down.xml" value="0.1605" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable-xxhdpi/favorite_toggle.xml" value="0.1" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable-xxhdpi/ic_favorite_1.xml" value="0.1" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable/dropdown_shape.xml" value="0.1115" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable/ic_arrow_down.xml" value="0.1605" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable/searchview_background.xml" value="0.1" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/drawable/spinner_style.xml" value="0.152" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/activity_detail_video.xml" value="0.4" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/activity_favorite.xml" value="0.264" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/activity_main.xml" value="0.11955420466058764" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/item_row_fav_video.xml" value="0.536" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/item_row_video.xml" value="0.25" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/layout/spinner_list.xml" value="0.1" />
+        <entry key="..\:/ITHB/Bangkit 22/Dicoding/Mobile Developer/Capstone Project/Android/BUMI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/zefan/AndroidStudioProjects/BUMI/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>

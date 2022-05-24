@@ -3,4 +3,17 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="video_title">Video Title</string>
+    <string name="video_item">Training Video</string>
+    <string name="home_banner_image">Image Home Banner</string>
+    <string name="searchHint">Cari Judul Video</string>
+    <string name="kategori_usaha">Kategori Usaha</string>
+    <string name="detail_traning_video">Detail Training Video</string>
+    <string name="video_description">Deskripsi</string>
+    <string name="toggleFav">Video Favorit</string>
+    <string-array name="kategori_dropdown_array">
+        <item>Kuliner</item>
+        <item>Rumah Tangga</item>
+        <item>Kesehatan</item>
+    </string-array>
 </resources>
